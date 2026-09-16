@@ -10,4 +10,5 @@
 # Get MAC address
 
 # Task 3
+<img width="1092" height="345" alt="image" src="https://github.com/user-attachments/assets/5eec2e65-0d36-4534-84fa-71413d3cdc22" />
 # Get physical addresses
