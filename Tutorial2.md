@@ -25,4 +25,5 @@
 
 # Task 5
 <img width="985" height="172" alt="image" src="https://github.com/user-attachments/assets/e2060227-845a-4fec-a5a5-433d1650fc96" />
+
 ### Ping for connection strength
