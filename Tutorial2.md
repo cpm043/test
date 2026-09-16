@@ -15,3 +15,9 @@
 <img width="1092" height="345" alt="image" src="https://github.com/user-attachments/assets/5eec2e65-0d36-4534-84fa-71413d3cdc22" />
 
 # Get physical addresses
+
+# Task 4
+<img width="760" height="508" alt="image" src="https://github.com/user-attachments/assets/391cc1b8-33f6-4271-82f5-08b3205debfd" />
+
+# Get IP Address
+
