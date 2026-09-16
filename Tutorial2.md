@@ -27,3 +27,9 @@
 <img width="985" height="172" alt="image" src="https://github.com/user-attachments/assets/e2060227-845a-4fec-a5a5-433d1650fc96" />
 
 ### Ping for connection strength
+
+# Task 6
+<img width="1032" height="487" alt="image" src="https://github.com/user-attachments/assets/0aae3503-e2f9-47c0-af06-e2ffb130cd52" />
+
+### Test connection to a website
+
