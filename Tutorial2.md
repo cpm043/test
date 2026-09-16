@@ -22,3 +22,7 @@
 ### Get IP Address
 ### IPv6 Address
 <img width="660" height="552" alt="image" src="https://github.com/user-attachments/assets/079007cc-6a6c-4355-9f7f-b44b7d2cd0f2" />
+
+# Task 5
+<img width="985" height="172" alt="image" src="https://github.com/user-attachments/assets/e2060227-845a-4fec-a5a5-433d1650fc96" />
+### Ping for connection strength
