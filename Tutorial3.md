@@ -13,3 +13,5 @@
 ## row 7 IPv6 multicast network traffic
 ## row 8 my IPv6 address for the local network
 ## row 9 route for IPv6 communication for any devices on the same link physically
+
+# Task 2
