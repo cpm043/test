@@ -44,7 +44,7 @@
 # Task 1
 ## ARP is used by IPv4 on a local network to show the MAC address for said IP. The ARP allows for broadcast network requests to happen since it replies to the request with the right MAC address. MAC address is stored in the ARP bubble
 
-<img width="1207" height="313" alt="image" src="https://github.com/user-attachments/assets/b63c7927-e876-4481-8332-01f96caab45f" />
+
 
 <img width="1451" height="501" alt="image" src="https://github.com/user-attachments/assets/fedf4c9d-0411-4d31-92f3-5ba77806968b" />
 
