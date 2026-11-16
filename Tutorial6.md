@@ -20,8 +20,10 @@ While not required, the WiFi Analyzer app on Android shows useful information.
 In your journal: List information found about at least one AP.
 Alternative Options…
 1.	Use a Mac (if available): Hold Option (⌥) and click the Wi-Fi icon in the menu bar. It displays SSID, BSSID, Channel, Band, and Tx Rate all on one screen.
-2.	Open poweshell and type: netsh wlan show interfaces
- 
+   ### id make a stronger, unique password.
+3.	Open poweshell and type: netsh wlan show interfaces
+ <img width="896" height="469" alt="image" src="https://github.com/user-attachments/assets/7c1c26bc-bf7f-492e-82ef-12b8fcc51d13" />
+
 
 # Task 2. Use Wi-Fi Access Point
 Access the web management interface of a wireless AP or router, e.g., your home wireless router. Explore the settings.
@@ -30,5 +32,6 @@ What are the important settings that you should consider when designing a Wi-Fi 
 In your journal:
 • Select the important settings and discuss what you would consider changing them to and why.
 • Screenshot/photo of AP settings
- .
+ <img width="975" height="576" alt="image" src="https://github.com/user-attachments/assets/0b30476c-5fd2-43a1-8867-d3e2ec4c4a76" />
+
 
